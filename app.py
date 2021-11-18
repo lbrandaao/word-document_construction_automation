@@ -8,7 +8,7 @@ import tasks
 Author: Leonardo Barbosa Brandão - Computer Science Student
 Linkedin: https://www.linkedin.com/in/leonardo-brand%C3%A3o-118aa4211/
 
-NOTE: Read the 'README.md' file before starting to use the application.
+NOTE: Read the 'README.md' file before starting to use the automation.
 '''
 
 screen = Screen()
