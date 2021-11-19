@@ -10,7 +10,7 @@
    * [How to use](#how-to-use)
       * [Initial Config](#initial-config)
       * [Events sequence](#events-sequence)
-   * [Technologies](#tecnologias)
+   * [Technologies](#technologies)
    * [Limitations](#limitations)
    * [Author](#author)
 <!--te-->
@@ -34,19 +34,25 @@ Furthermore, in the events where a mouse position is requested, it is obtained r
    * Required Mouse Positions
   
       * Enumerador do Word
-      <img src="./assets/enumerator_position.png">  
+      <img src="./assets/enumerator_position.png" max-width="500">  
+      
       * Caixa de Fonte
       <img src="./assets/boxFont_position.png"> 
+      
       * Caixa de Tamanho da Fonte
-      <img src="./assets/boxFontSize_position.png"> 
+      <img src="./assets/boxFontSize_position.png" max-width="500"> 
+      
       * Seção Inserir
-      <img src="./assets/sectionInserir_position.png"> 
+      <img src="./assets/sectionInserir_position.png" max-width="500"> 
+      
       * Opção Tabela
-      <img src="./assets/optionTabela_position.png"> 
+      <img src="./assets/optionTabela_position.png" max-width="500"> 
+      
       * Tabela 1x1
-      <img src="./assets/createTabela_position.png"> 
+      <img src="./assets/createTabela_position.png" max-width="500"> 
+      
       * Seção Página Inicial 
-      <img src="./assets/sectionPaginaInicial_position.png"> 
+      <img src="./assets/sectionPaginaInicial_position.png" max-width="500"> 
 
 * ### **Events Sequence**
   As explained, there is a static sequence of events that will be cited here in the order in which they occur.
