@@ -22,10 +22,10 @@ class Screen():
         mouseX_boxFontSize, mouseY_boxFontSize = pyautogui.position()
         file.write(f"({mouseX_boxFontSize},{mouseY_boxFontSize})\n")
 
-        file.write("mouseX_sectionInserir,mouseY_sectionInserir=")
+        file.write("mouseX_sectionInsert,mouseY_sectionInsert=")
         pyautogui.alert("Posicione o mouse sobre a seção 'Inserir' no topo do documento.")
-        mouseX_sectionInserir, mouseY_sectionInserir = pyautogui.position()
-        file.write(f"({mouseX_sectionInserir},{mouseY_sectionInserir})\n")
+        mouseX_sectionInsert, mouseY_sectionInsert = pyautogui.position()
+        file.write(f"({mouseX_sectionInsert},{mouseY_sectionInsert})\n")
 
         file.write("mouseX_optionTabela,mouseY_optionTabela=")
         pyautogui.alert("Clique na seção 'Inserir' e posicione o mouse sobre a opção 'Tabela'.")
