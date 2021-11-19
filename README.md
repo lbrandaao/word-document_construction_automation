@@ -7,11 +7,10 @@
    * [About](#About)
    * [Table of contents](#table-of-contents)
    * [Simple Demonstration](#simple-demonstration)
-   * [How to use](#how-to-use)
+   * [Instructions](#instructions)
       * [Initial Config](#initial-config)
       * [Events sequence](#events-sequence)
    * [Technologies](#technologies)
-   * [Limitations](#limitations)
    * [Author](#author)
 <!--te-->
 
@@ -19,7 +18,7 @@
 Here's an example in practice of the automation running
 <img src="./assets/giphy.gif">
 
-## How to use
+## Instructions
 This is the **most important** section. 
 
 I created the automation with the only purpose of building an exercises list file for some subjects at my college. Therefore, there's a static sequence of events, in other words, it's not possible customize the tasks or their sequence, unless of course that you change the code.
@@ -34,25 +33,32 @@ Furthermore, in the events where a mouse position is requested, it is obtained r
    * Required Mouse Positions
   
       * Enumerador do Word
-      <img src="./assets/enumerator_position.png" max-width="500">  
+      
+         <img src="./assets/enumerator_position.png" width=450>  
       
       * Caixa de Fonte
-      <img src="./assets/boxFont_position.png"> 
+      
+         <img src="./assets/boxFont_position.png" width=450> 
       
       * Caixa de Tamanho da Fonte
-      <img src="./assets/boxFontSize_position.png" max-width="500"> 
+      
+         <img src="./assets/boxFontSize_position.png" width=450> 
       
       * Seção Inserir
-      <img src="./assets/sectionInserir_position.png" max-width="500"> 
+      
+         <img src="./assets/sectionInserir_position.png" width=450> 
       
       * Opção Tabela
-      <img src="./assets/optionTabela_position.png" max-width="500"> 
+      
+         <img src="./assets/optionTabela_position.png" width=450> 
       
       * Tabela 1x1
-      <img src="./assets/createTabela_position.png" max-width="500"> 
+      
+         <img src="./assets/createTabela_position.png" width=450> 
       
       * Seção Página Inicial 
-      <img src="./assets/sectionPaginaInicial_position.png" max-width="500"> 
+      
+         <img src="./assets/sectionPaginaInicial_position.png" width=450> 
 
 * ### **Events Sequence**
   As explained, there is a static sequence of events that will be cited here in the order in which they occur.
@@ -76,7 +82,8 @@ Furthermore, in the events where a mouse position is requested, it is obtained r
    * [time module](https://docs.python.org/3/library/time.html)
    * [Microsoft Word](https://www.microsoft.com/pt-br/microsoft-365/word)
 
-## Limitations
-
-
 ## Author
+**Leonardo Barbosa Brandão**
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/leonardo-brand%C3%A3o-118aa4211/)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/lbrandaao)
