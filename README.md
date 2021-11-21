@@ -4,7 +4,6 @@
 
 ## Table of contents
 <!--ts-->
-   * [About](#About)
    * [Table of contents](#table-of-contents)
    * [Simple Demonstration](#simple-demonstration)
    * [Instructions](#instructions)
@@ -72,7 +71,7 @@ Furthermore, in the events where a mouse position is requested, it is obtained r
       
       So first you will be asked if you need to scroll down the page to capture the entire current question. In case it is not necessary, you will have to position your mouse where the question starts and then where it finishes - these positions will be used to simulate the mouse drag moviment with the left button pressed (select the question and then copy it). 
       
-      On the other hand, if you need to scroll down the page to capture the entire current question, you will have to press the _'down'_ key (down arrow) and count how many times you pressed it to position the document with the questions in the way you want, then inform this number. Then the process is the same for capturing the question mouse positions.
+      On the other hand, if you need to scroll down the page to capture the entire current question, you will have to press the _'down'_ key (down arrow) and count how many times you pressed it to position the document with the questions in the way you want, then inform this number. After that the process is the same for capturing the question mouse positions.
 
       After providing the mouse positions of the current question, the process repeats until the last question.
 
